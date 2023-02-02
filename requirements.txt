@@ -16,4 +16,4 @@ singledispatch==3.4.0.3
 six==1.11.0
 SQLAlchemy==1.2.6
 typing==3.6.4
-Werkzeug==0.14.1
+Werkzeug==0.15.5
